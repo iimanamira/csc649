@@ -1,3 +1,5 @@
+# CSC649 Experiment 1: Word and Character Counter
+
 ## What the program does
 Asks the user to enter a sentence, then displays the word count and the
 character count (including spaces). If the input is empty or only spaces,
