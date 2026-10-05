@@ -19,4 +19,4 @@ it shows a message instead.
 
 ## Limitation
 The character count includes leading, trailing and extra spaces, so spacing
-affects the result. Punctuation is also counted as characters.
+affects the result. Punctuation is also counted as characters."# csc649" 
